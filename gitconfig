@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ivanoffboyan@gmail.com
+	name = Boyan Asenov
